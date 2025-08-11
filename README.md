@@ -1,4 +1,4 @@
-# gui-events-essentials
+# Gui_Events_Essentials
 
 Two tiny Java GUI apps showing basic mouse events and repainting.
 
@@ -27,4 +27,5 @@ Sanitized, original portfolio sample inspired by coursework.
 Do not submit it as a class assignment.
 
 ## License
+
 MIT
